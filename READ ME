@@ -23,7 +23,17 @@ It arranges the elements in the required order by repeatedly selecting the large
 **Max Heap is used for ascending order**, and **Min Heap is used for descending order**.
 
 SUMMARY OF PRACTICAL 4: In Practical 4 Factorial can be calculated using iterative or recursive methods.
-The iterative method uses a loop to multiply numbers from 1 to n. 
+The iterative method uses a loop to multiply numbers from 1 to n.
+CONCLUSION:
 The recursive method calls the same function repeatedly until it reaches the base case, 0! = 1 or 1! = 1. Both methods produce the same result.
-Conclusion :
-Both iterative and recursive methods are useful for calculating factorials. Iteration is generally more memory-efficient and simpler for practical programs, while recursion is useful for understanding recursive problem-solving and function calls.
+Both iterative and recursive methods are useful for calculating factorials. Iteration is generally more memory-efficient and simpler for practical programs,
+while recursion is useful for understanding recursive problem-solving and function calls.
+
+SUMMARY OF PRACTICAL 7:The Making Change problem is solved using **Dynamic Programming** to find the minimum number of coins 
+required to make a given amount. A DP array is used where each position stores the minimum coins needed to form that amount.
+By considering every available coin for each amount, the solution avoids repeated calculations 
+and efficiently finds the optimal result.
+CONCLUSION:
+The Dynamic Programming approach provides an **efficient and optimal solution** for the Making Change problem.
+It reduces the time complexity compared with a simple recursive approach and works effectively for larger amounts. 
+This problem demonstrates how **optimal substructure and overlapping subproblems** can be used to solve real-world optimization problems.
