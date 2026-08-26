@@ -37,3 +37,10 @@ CONCLUSION:
 The Dynamic Programming approach provides an **efficient and optimal solution** for the Making Change problem.
 It reduces the time complexity compared with a simple recursive approach and works effectively for larger amounts. 
 This problem demonstrates how **optimal substructure and overlapping subproblems** can be used to solve real-world optimization problems.
+
+
+SUMMAY OF PACTICAL 5:The Knapsack problem using Dynamic Programming finds the maximum value of items that can be placed in a bag without exceeding its capacity. 
+It divides the problem into smaller subproblems and stores their results to avoid repeated calculations.
+Conclusion:
+Dynamic Programming provides an efficient solution to the 0/1 Knapsack problem. 
+It gives the optimal solution with a time complexity of O(nW), where n is the number of items and W is the capacity.
