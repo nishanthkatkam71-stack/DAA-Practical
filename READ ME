@@ -44,3 +44,9 @@ It divides the problem into smaller subproblems and stores their results to avoi
 Conclusion:
 Dynamic Programming provides an efficient solution to the 0/1 Knapsack problem. 
 It gives the optimal solution with a time complexity of O(nW), where n is the number of items and W is the capacity.
+
+
+SUMMARY OF PRACTICAL 6:IN THIS PRACTICAL Matrix Chain Multiplication uses Dynamic Programming to find the best order of multiplying matrices with minimum operations. 
+It saves previous results to avoid repeated calculations.
+Conclusion:
+Dynamic Programming makes matrix multiplication faster and more efficient by finding the optimal multiplication order.
