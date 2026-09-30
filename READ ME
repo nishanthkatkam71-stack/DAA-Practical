@@ -64,3 +64,10 @@ The graph traversal program successfully implements both DFS and BFS searching t
 DFS uses a depth-based approach, while BFS visits vertices level by level. Both methods efficiently traverse the vertices and edges of a graph. 
 The program accepts user input, making it flexible for different graph structures and starting vertices.
 Thus, DFS and BFS are useful and fundamental techniques for solving various graph-based problems.
+
+
+SUMMARY OF PRACTICAL 9: IN THIS PRACTICAL Prim's Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a weighted,
+connected graph by repeatedly selecting the minimum-weight edge.
+
+CONCLUSION:Prim's Algorithm efficiently connects all vertices with minimum total edge weight and is useful for network and graph optimization problems.
+
